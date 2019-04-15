@@ -1,0 +1,65 @@
+.container
+{
+    /* center contents */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#top
+{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#bphc_logo
+{
+    margin: 3%;
+    max-width: 23%;
+    height: auto;
+}
+
+#ec_logo
+{
+	margin: 3%;
+    max-width: 30%;
+    height: auto;
+}
+
+#middle
+{
+    display: block;
+    margin-top: 20px;
+}
+
+#bottom
+{
+    display: block;
+
+    /* shrink bottom's font size */
+    font-size: smaller;
+
+    /* surround with whitespace */
+    margin: 20px;
+}
+
+.form-group
+{
+    margin:auto;
+    padding-top: 20px;
+    max-width: 275px;
+}
+
+.radio
+{
+    display: inline-block;
+    margin:auto;
+    padding-top: 18px;
+    max-width: 275px;
+}
+
+.opt
+{
+    margin: auto;
+    padding: 5px;
+}
